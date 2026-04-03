@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "The Paradox of Origin: Formal Incompleteness, the Jevons Paradox, and the Structural Necessity of Human Judgment in AI Systems"
+abstract: >
+  This paper argues that artificial intelligence systems are structurally
+  incapable of full cognitive autonomy, for reasons that are formal, empirical,
+  economic, and interactional. Drawing on Gödel's incompleteness theorems,
+  Model Collapse (Shumailov et al., 2024), the Jevons rebound effect,
+  Truth Inflation, and AI sycophancy, it introduces the Paradox of Origin:
+  the more technically capable an AI system becomes, the more it reveals
+  its structural dependency on human judgment. The paper proposes the
+  Verification Triad (human agent + generative AI + formal verifier) as a
+  constructive architectural response. Co-authored by a human researcher
+  and two AI systems as a performative instantiation of its central thesis.
+authors:
+  - family-names: "Hernández"
+    given-names: "Cristian Ariel"
+    orcid: ""
+    affiliation: "Independent researcher"
+    country: AR
+  - name: "Claude (Anthropic)"
+    alias: "Claude"
+    website: "https://www.anthropic.com"
+  - name: "Gemini (Google DeepMind)"
+    alias: "Gemini"
+    website: "https://deepmind.google"
+version: "2.2"
+date-released: "2025"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/CristianArielHz/paradox-of-origin"
+url: "https://github.com/CristianArielHz/paradox-of-origin"
+type: article
+keywords:
+  - artificial intelligence
+  - Gödel incompleteness
+  - Jevons paradox
+  - model collapse
+  - sycophancy
+  - truth inflation
+  - human-AI collaboration
+  - formal verification
+  - Lean4
+  - cognitive labor economics
+  - philosophy of mind
+  - AI alignment
+preferred-citation:
+  type: unpublished
+  title: "The Paradox of Origin: Formal Incompleteness, the Jevons Paradox, and the Structural Necessity of Human Judgment in AI Systems"
+  authors:
+    - family-names: "Hernández"
+      given-names: "Cristian Ariel"
+    - name: "Claude (Anthropic)"
+    - name: "Gemini (Google DeepMind)"
+  year: 2025
+  notes: "Preprint. Version 2.2. Available at https://github.com/CristianArielHz/paradox-of-origin"
